@@ -1,3 +1,5 @@
+'use strict';
+
 const solution = N => {
   const binaryN = N.toString(2);
   let maxGap = 0;

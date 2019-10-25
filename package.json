@@ -9,7 +9,7 @@
     "hpw": "^0.1.8"
   },
   "scripts": {
-    "test": "eslint ./lessons; hpw"
+    "test": "eslint ./Exercises; hpw"
   },
   "repository": {
     "type": "git",
